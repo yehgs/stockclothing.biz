@@ -11,8 +11,8 @@ import ProductCard from '@/components/ProductCard';
 import { useCart } from '@/contexts/CartContext';
 
 export default function ProductDetailPage() {
-  const { id } = useParams<{ id: any }>();
-  const product = productsData.find((p) => p.id === id);
+  const { id } = useParams<{ id: string }>();
+  const product = productsData.find((p) => p.id.toString() === id);
   const [selectedImage, setSelectedImage] = useState(0);
   const [selectedSize, setSelectedSize] = useState('');
   const [quantity, setQuantity] = useState(product?.minOrderQuantity || 10);
@@ -119,8 +119,11 @@ export default function ProductDetailPage() {
 
               {/* Action Buttons */}
               <div className="absolute top-4 right-4 flex flex-col gap-2">
-                <button className="bg-white p-2 rounded-full shadow-md hover:bg-gray-100 transition-colors">
-                  <Heart className="w-5 h-5" />
+                <button 
+                  onClick={toggleWishlist}
+                  className="bg-white p-2 rounded-full shadow-md hover:bg-gray-100 transition-colors"
+                >
+                  <Heart className={`w-5 h-5 ${inWishlist ? 'fill-red-500 text-red-500' : ''}`} />
                 </button>
                 <button className="bg-white p-2 rounded-full shadow-md hover:bg-gray-100 transition-colors">
                   <Share2 className="w-5 h-5" />

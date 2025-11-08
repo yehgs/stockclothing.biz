@@ -13,22 +13,22 @@ const categories = [
   },
   {
     name: 'Jeans',
-    image: 'https://images.unsplash.com/photo-1583002304912-94d3caa0b4e1?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80',
     count: 85,
   },
   {
     name: 'Jackets',
-    image: 'https://images.unsplash.com/photo-1602810311558-003dc04c7af1?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80',
     count: 65,
   },
   {
     name: 'Hoodies',
-    image: 'https://images.unsplash.com/photo-1629371087001-4b3ec1b32f61?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=800&q=80',
     count: 95,
   },
   {
     name: 'Sweaters',
-    image: 'https://images.unsplash.com/photo-1603252110263-fb6a4d0b36c5?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80',
     count: 78,
   },
   {
@@ -38,12 +38,12 @@ const categories = [
   },
   {
     name: 'Dresses',
-    image: 'https://images.unsplash.com/photo-1521334884684-d80222895322?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80',
     count: 92,
   },
   {
     name: 'Pants',
-    image: 'https://images.unsplash.com/photo-1600185365926-3a2ce3cdbd1c?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=80',
     count: 88,
   },
 ];

@@ -10,7 +10,7 @@ const slides = [
     title: 'Wholesale Stock Clothing',
     subtitle: 'Premium Brands at Unbeatable Prices',
     description: 'Buy in bulk and save big on authentic designer clothing',
-    image: 'https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?auto=format&fit=crop&w=1600&q=80',
+    image: 'https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?auto=format&fit=crop&w=1600&q=80',
     cta: 'Shop Now',
   },
   {
@@ -30,6 +30,7 @@ const slides = [
     cta: 'Get Quote',
   },
 ];
+
 
 export default function HeroSlider() {
   const [currentSlide, setCurrentSlide] = useState(0);
