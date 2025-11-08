@@ -1,0 +1,2871 @@
+[
+  {
+    "id": 1,
+    "name": "Zara Classic Jeans",
+    "brand": "Zara",
+    "category": "Jeans",
+    "gender": "Unisex",
+    "description": "High-quality green jeans from Zara. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Zara jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 190,
+      "current": 153,
+      "discount": 19
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 469,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=800",
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 133,
+    "sku": "SKU-ZAR-00001",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Zara",
+      "Jeans",
+      "Green",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "H&M Premium Jeans",
+    "brand": "H&M",
+    "category": "Jeans",
+    "gender": "Men",
+    "description": "Brand new H&M jeans available in bulk. Red color, perfect condition for resale.",
+    "longDescription": "This H&M jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 86,
+      "current": 59,
+      "discount": 31
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 517,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800",
+      "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=800",
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800",
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.4",
+    "reviews": 202,
+    "sku": "SKU-H&M-00002",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "H&M",
+      "Jeans",
+      "Red",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Mango Modern Coats",
+    "brand": "Mango",
+    "category": "Coats",
+    "gender": "Men",
+    "description": "Brand new Mango coats available in bulk. Red color, perfect condition for resale.",
+    "longDescription": "This Mango coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 176,
+      "current": 130,
+      "discount": 26
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 300,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1544923408-75c5cef46f14?w=800",
+      "https://images.unsplash.com/photo-1578587018452-892bacefd3f2?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.3",
+    "reviews": 91,
+    "sku": "SKU-MAN-00003",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Mango",
+      "Coats",
+      "Red",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Gap Classic Jeans",
+    "brand": "Gap",
+    "category": "Jeans",
+    "gender": "Men",
+    "description": "Authentic Gap jeans in green. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Gap jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 133,
+      "current": 109,
+      "discount": 18
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 352,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=800",
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=800",
+      "https://images.unsplash.com/photo-1578932750294-f5075e85f44a?w=800",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "4.3",
+    "reviews": 38,
+    "sku": "SKU-GAP-00004",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Jeans",
+      "Green",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Gap Sport Sweaters",
+    "brand": "Gap",
+    "category": "Sweaters",
+    "gender": "Men",
+    "description": "High-quality navy sweaters from Gap. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Gap sweaters represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in navy and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 158,
+      "current": 110,
+      "discount": 30
+    },
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 99,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=800",
+      "https://images.unsplash.com/photo-1609873814058-a8928924184a?w=800",
+      "https://images.unsplash.com/photo-1601656930765-8eced99eaa30?w=800",
+      "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.6",
+    "reviews": 73,
+    "sku": "SKU-GAP-00005",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Sweaters",
+      "Navy",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "H&M Urban Coats",
+    "brand": "H&M",
+    "category": "Coats",
+    "gender": "Men",
+    "description": "Stock lot of genuine H&M coats. Yellow color, ready for immediate wholesale purchase.",
+    "longDescription": "This H&M coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in yellow and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 183,
+      "current": 111,
+      "discount": 39
+    },
+    "color": "Yellow",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 519,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800",
+      "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=800",
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.1",
+    "reviews": 52,
+    "sku": "SKU-H&M-00006",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "H&M",
+      "Coats",
+      "Yellow",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Uniqlo Casual Blazers",
+    "brand": "Uniqlo",
+    "category": "Blazers",
+    "gender": "Unisex",
+    "description": "Brand new Uniqlo blazers available in bulk. Yellow color, perfect condition for resale.",
+    "longDescription": "This Uniqlo blazers represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in yellow and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 148,
+      "current": 76,
+      "discount": 48
+    },
+    "color": "Yellow",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 401,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=800",
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800",
+      "https://images.unsplash.com/photo-1566174053879-31528523f8ae?w=800",
+      "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.9",
+    "reviews": 185,
+    "sku": "SKU-UNI-00007",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Uniqlo",
+      "Blazers",
+      "Yellow",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Uniqlo Premium Jackets",
+    "brand": "Uniqlo",
+    "category": "Jackets",
+    "gender": "Men",
+    "description": "Stock lot of genuine Uniqlo jackets. Gray color, ready for immediate wholesale purchase.",
+    "longDescription": "This Uniqlo jackets represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in gray and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 126,
+      "current": 98,
+      "discount": 22
+    },
+    "color": "Gray",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 270,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800",
+      "https://images.unsplash.com/photo-1590736969955-71cc94901144?w=800",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800",
+      "https://images.unsplash.com/photo-1560769680-ba4b5efa77b0?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.5",
+    "reviews": 31,
+    "sku": "SKU-UNI-00008",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Uniqlo",
+      "Jackets",
+      "Gray",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Pull & Bear Sport Dresses",
+    "brand": "Pull & Bear",
+    "category": "Dresses",
+    "gender": "Men",
+    "description": "Authentic Pull & Bear dresses in black. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Pull & Bear dresses represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 78,
+      "current": 46,
+      "discount": 41
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 289,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800",
+      "https://images.unsplash.com/photo-1624378440070-5d99c0b8a8e8?w=800",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=800",
+      "https://images.unsplash.com/photo-1517438476312-10d79c077509?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.8",
+    "reviews": 71,
+    "sku": "SKU-PUL-00009",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Pull & Bear",
+      "Dresses",
+      "Black",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Prada Sport Coats",
+    "brand": "Prada",
+    "category": "Coats",
+    "gender": "Unisex",
+    "description": "Brand new Prada coats available in bulk. Pink color, perfect condition for resale.",
+    "longDescription": "This Prada coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in pink and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 122,
+      "current": 92,
+      "discount": 24
+    },
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 383,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=800",
+      "https://images.unsplash.com/photo-1556906781-9a412961c28c?w=800",
+      "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800",
+      "https://images.unsplash.com/photo-1598400411041-c563c2322d7b?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.1",
+    "reviews": 176,
+    "sku": "SKU-PRA-00010",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Prada",
+      "Coats",
+      "Pink",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 3",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Nike Vintage Jeans",
+    "brand": "Nike",
+    "category": "Jeans",
+    "gender": "Men",
+    "description": "Authentic Nike jeans in blue. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Nike jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in blue and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 116,
+      "current": 67,
+      "discount": 42
+    },
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 399,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800",
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=800",
+      "https://images.unsplash.com/photo-1544441892-794166f1e3be?w=800",
+      "https://images.unsplash.com/photo-1601333144130-8cbb312386b6?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.4",
+    "reviews": 183,
+    "sku": "SKU-NIK-00011",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Nike",
+      "Jeans",
+      "Blue",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Tommy Hilfiger Urban Skirts",
+    "brand": "Tommy Hilfiger",
+    "category": "Skirts",
+    "gender": "Women",
+    "description": "High-quality red skirts from Tommy Hilfiger. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Tommy Hilfiger skirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 185,
+      "current": 105,
+      "discount": 43
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 336,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800",
+      "https://images.unsplash.com/photo-1594938291221-94f18cbb5660?w=800",
+      "https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800",
+      "https://images.unsplash.com/photo-1593030668069-d4d701c82bce?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.7",
+    "reviews": 197,
+    "sku": "SKU-TOM-00012",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Tommy Hilfiger",
+      "Skirts",
+      "Red",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "Adidas Modern Shirts",
+    "brand": "Adidas",
+    "category": "Shirts",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Adidas shirts. Yellow color, ready for immediate wholesale purchase.",
+    "longDescription": "This Adidas shirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in yellow and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 53,
+      "current": 27,
+      "discount": 49
+    },
+    "color": "Yellow",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 205,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800",
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800",
+      "https://images.unsplash.com/photo-1527719327859-c6ce80353573?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.1",
+    "reviews": 119,
+    "sku": "SKU-ADI-00013",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Adidas",
+      "Shirts",
+      "Yellow",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Uniqlo Classic Pants",
+    "brand": "Uniqlo",
+    "category": "Pants",
+    "gender": "Men",
+    "description": "High-quality blue pants from Uniqlo. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Uniqlo pants represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in blue and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 129,
+      "current": 77,
+      "discount": 40
+    },
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 176,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1582552938357-32b906528183?w=800",
+      "https://images.unsplash.com/photo-1598554747436-c9293d6a588f?w=800",
+      "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?w=800",
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.6",
+    "reviews": 203,
+    "sku": "SKU-UNI-00014",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Uniqlo",
+      "Pants",
+      "Blue",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Louis Vuitton Classic Jackets",
+    "brand": "Louis Vuitton",
+    "category": "Jackets",
+    "gender": "Men",
+    "description": "Brand new Louis Vuitton jackets available in bulk. Red color, perfect condition for resale.",
+    "longDescription": "This Louis Vuitton jackets represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 70,
+      "current": 55,
+      "discount": 21
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 339,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+      "https://images.unsplash.com/photo-1591188948849-366b2a1c06b0?w=800",
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 60,
+    "sku": "SKU-LOU-00015",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Louis Vuitton",
+      "Jackets",
+      "Red",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Prada Sport Blazers",
+    "brand": "Prada",
+    "category": "Blazers",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Prada blazers. Black color, ready for immediate wholesale purchase.",
+    "longDescription": "This Prada blazers represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 147,
+      "current": 97,
+      "discount": 34
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 121,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?w=800",
+      "https://images.unsplash.com/photo-1614252234787-3ec1dc29f1a3?w=800",
+      "https://images.unsplash.com/photo-1564557287817-3785e38ec1f5?w=800",
+      "https://images.unsplash.com/photo-1598032895397-f0a5c5ad9d7f?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.1",
+    "reviews": 60,
+    "sku": "SKU-PRA-00016",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Prada",
+      "Blazers",
+      "Black",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Calvin Klein Sport Coats",
+    "brand": "Calvin Klein",
+    "category": "Coats",
+    "gender": "Men",
+    "description": "Stock lot of genuine Calvin Klein coats. Green color, ready for immediate wholesale purchase.",
+    "longDescription": "This Calvin Klein coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 79,
+      "current": 48,
+      "discount": 38
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 540,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1634227220348-317f6e99c712?w=800",
+      "https://images.unsplash.com/photo-1604695573706-53170668f6a6?w=800",
+      "https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?w=800",
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.5",
+    "reviews": 30,
+    "sku": "SKU-CAL-00017",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Calvin Klein",
+      "Coats",
+      "Green",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Gap Urban Dresses",
+    "brand": "Gap",
+    "category": "Dresses",
+    "gender": "Women",
+    "description": "Authentic Gap dresses in green. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Gap dresses represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 129,
+      "current": 65,
+      "discount": 49
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 350,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1608613304810-2d4dd52511a2?w=800",
+      "https://images.unsplash.com/photo-1612336307429-8a898d10e223?w=800",
+      "https://images.unsplash.com/photo-1539008835657-9e8e9680c956?w=800",
+      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.0",
+    "reviews": 48,
+    "sku": "SKU-GAP-00018",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Dresses",
+      "Green",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "Calvin Klein Modern Shorts",
+    "brand": "Calvin Klein",
+    "category": "Shorts",
+    "gender": "Women",
+    "description": "Brand new Calvin Klein shorts available in bulk. Black color, perfect condition for resale.",
+    "longDescription": "This Calvin Klein shorts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 70,
+      "current": 40,
+      "discount": 42
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 548,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?w=800",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.7",
+    "reviews": 31,
+    "sku": "SKU-CAL-00019",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Calvin Klein",
+      "Shorts",
+      "Black",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "H&M Premium Sweaters",
+    "brand": "H&M",
+    "category": "Sweaters",
+    "gender": "Women",
+    "description": "Stock lot of genuine H&M sweaters. Red color, ready for immediate wholesale purchase.",
+    "longDescription": "This H&M sweaters represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 75,
+      "current": 63,
+      "discount": 16
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 430,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1591195853908-1b38025764f1?w=800",
+      "https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=800",
+      "https://images.unsplash.com/photo-1544441893-675973e09752?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800"
+    ],
+    "featured": true,
+    "newArrival": false,
+    "rating": "3.4",
+    "reviews": 61,
+    "sku": "SKU-H&M-00020",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "H&M",
+      "Sweaters",
+      "Red",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "name": "Calvin Klein Casual Pants",
+    "brand": "Calvin Klein",
+    "category": "Pants",
+    "gender": "Unisex",
+    "description": "Authentic Calvin Klein pants in pink. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Calvin Klein pants represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in pink and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 53,
+      "current": 37,
+      "discount": 30
+    },
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 269,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=800",
+      "https://images.unsplash.com/photo-1490367532201-b9bc1dc483f6?w=800",
+      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=800",
+      "https://images.unsplash.com/photo-1467043153537-a4fba2cd39ef?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.7",
+    "reviews": 123,
+    "sku": "SKU-CAL-00021",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Calvin Klein",
+      "Pants",
+      "Pink",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "name": "Calvin Klein Luxury Coats",
+    "brand": "Calvin Klein",
+    "category": "Coats",
+    "gender": "Unisex",
+    "description": "Brand new Calvin Klein coats available in bulk. Gray color, perfect condition for resale.",
+    "longDescription": "This Calvin Klein coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in gray and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 65,
+      "current": 42,
+      "discount": 34
+    },
+    "color": "Gray",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 411,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?w=800",
+      "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=800",
+      "https://images.unsplash.com/photo-1560243563-062bfc001d68?w=800",
+      "https://images.unsplash.com/photo-1602810316498-ab67cf68c8e1?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.9",
+    "reviews": 19,
+    "sku": "SKU-CAL-00022",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Calvin Klein",
+      "Coats",
+      "Gray",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "name": "Nike Vintage Skirts",
+    "brand": "Nike",
+    "category": "Skirts",
+    "gender": "Men",
+    "description": "Brand new Nike skirts available in bulk. Black color, perfect condition for resale.",
+    "longDescription": "This Nike skirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 142,
+      "current": 90,
+      "discount": 36
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 292,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800",
+      "https://images.unsplash.com/photo-1620121478247-ec786b9be2fa?w=800",
+      "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?w=800",
+      "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.1",
+    "reviews": 151,
+    "sku": "SKU-NIK-00023",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Nike",
+      "Skirts",
+      "Black",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "name": "Ralph Lauren Vintage Pants",
+    "brand": "Ralph Lauren",
+    "category": "Pants",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Ralph Lauren pants. Purple color, ready for immediate wholesale purchase.",
+    "longDescription": "This Ralph Lauren pants represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in purple and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 154,
+      "current": 130,
+      "discount": 15
+    },
+    "color": "Purple",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 355,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=800",
+      "https://images.unsplash.com/photo-1614676471928-2ed0ad1061a4?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1610652492426-a18wefd63b7e?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "3.8",
+    "reviews": 60,
+    "sku": "SKU-RAL-00024",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Ralph Lauren",
+      "Pants",
+      "Purple",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "name": "Louis Vuitton Casual Coats",
+    "brand": "Louis Vuitton",
+    "category": "Coats",
+    "gender": "Unisex",
+    "description": "Brand new Louis Vuitton coats available in bulk. Blue color, perfect condition for resale.",
+    "longDescription": "This Louis Vuitton coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in blue and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 120,
+      "current": 73,
+      "discount": 39
+    },
+    "color": "Blue",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 103,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1557821552-17105176677c?w=800",
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800",
+      "https://images.unsplash.com/photo-1525450952037-d96e6e92ccca?w=800",
+      "https://images.unsplash.com/photo-1565084888279-aca607ecce0c?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.6",
+    "reviews": 138,
+    "sku": "SKU-LOU-00025",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Louis Vuitton",
+      "Coats",
+      "Blue",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 3",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Louis Vuitton Casual Hoodies",
+    "brand": "Louis Vuitton",
+    "category": "Hoodies",
+    "gender": "Women",
+    "description": "High-quality brown hoodies from Louis Vuitton. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Louis Vuitton hoodies represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in brown and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 168,
+      "current": 110,
+      "discount": 34
+    },
+    "color": "Brown",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 247,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163574?w=800",
+      "https://images.unsplash.com/photo-1542272604887?w=800",
+      "https://images.unsplash.com/photo-1551028719101?w=800",
+      "https://images.unsplash.com/photo-1556821840492?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "3.9",
+    "reviews": 196,
+    "sku": "SKU-LOU-00026",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Louis Vuitton",
+      "Hoodies",
+      "Brown",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "name": "Zara Vintage Pants",
+    "brand": "Zara",
+    "category": "Pants",
+    "gender": "Unisex",
+    "description": "Wholesale pants from Zara. Premium beige variant with authentic tags.",
+    "longDescription": "This Zara pants represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in beige and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 128,
+      "current": 93,
+      "discount": 27
+    },
+    "color": "Beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 65,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163578?w=800",
+      "https://images.unsplash.com/photo-1542272604891?w=800",
+      "https://images.unsplash.com/photo-1551028719105?w=800",
+      "https://images.unsplash.com/photo-1556821840496?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.9",
+    "reviews": 117,
+    "sku": "SKU-ZAR-00027",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Zara",
+      "Pants",
+      "Beige",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "name": "Ralph Lauren Classic Blazers",
+    "brand": "Ralph Lauren",
+    "category": "Blazers",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Ralph Lauren blazers. Purple color, ready for immediate wholesale purchase.",
+    "longDescription": "This Ralph Lauren blazers represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in purple and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 64,
+      "current": 44,
+      "discount": 30
+    },
+    "color": "Purple",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 240,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163582?w=800",
+      "https://images.unsplash.com/photo-1542272604895?w=800",
+      "https://images.unsplash.com/photo-1551028719109?w=800",
+      "https://images.unsplash.com/photo-1556821840500?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.2",
+    "reviews": 176,
+    "sku": "SKU-RAL-00028",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Ralph Lauren",
+      "Blazers",
+      "Purple",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Gucci Modern Coats",
+    "brand": "Gucci",
+    "category": "Coats",
+    "gender": "Unisex",
+    "description": "High-quality white coats from Gucci. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Gucci coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in white and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 98,
+      "current": 82,
+      "discount": 16
+    },
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 59,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163586?w=800",
+      "https://images.unsplash.com/photo-1542272604899?w=800",
+      "https://images.unsplash.com/photo-1551028719113?w=800",
+      "https://images.unsplash.com/photo-1556821840504?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.7",
+    "reviews": 73,
+    "sku": "SKU-GUC-00029",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gucci",
+      "Coats",
+      "White",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Gap Luxury Skirts",
+    "brand": "Gap",
+    "category": "Skirts",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Gap skirts. Red color, ready for immediate wholesale purchase.",
+    "longDescription": "This Gap skirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 104,
+      "current": 85,
+      "discount": 18
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 415,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163590?w=800",
+      "https://images.unsplash.com/photo-1542272604903?w=800",
+      "https://images.unsplash.com/photo-1551028719117?w=800",
+      "https://images.unsplash.com/photo-1556821840508?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.9",
+    "reviews": 154,
+    "sku": "SKU-GAP-00030",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Skirts",
+      "Red",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "name": "Adidas Premium Jeans",
+    "brand": "Adidas",
+    "category": "Jeans",
+    "gender": "Men",
+    "description": "Stock lot of genuine Adidas jeans. Red color, ready for immediate wholesale purchase.",
+    "longDescription": "This Adidas jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 58,
+      "current": 49,
+      "discount": 15
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 293,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163594?w=800",
+      "https://images.unsplash.com/photo-1542272604907?w=800",
+      "https://images.unsplash.com/photo-1551028719121?w=800",
+      "https://images.unsplash.com/photo-1556821840512?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.4",
+    "reviews": 26,
+    "sku": "SKU-ADI-00031",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Adidas",
+      "Jeans",
+      "Red",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "name": "Forever 21 Vintage Hoodies",
+    "brand": "Forever 21",
+    "category": "Hoodies",
+    "gender": "Unisex",
+    "description": "Wholesale hoodies from Forever 21. Premium beige variant with authentic tags.",
+    "longDescription": "This Forever 21 hoodies represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in beige and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 123,
+      "current": 70,
+      "discount": 43
+    },
+    "color": "Beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 334,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163598?w=800",
+      "https://images.unsplash.com/photo-1542272604911?w=800",
+      "https://images.unsplash.com/photo-1551028719125?w=800",
+      "https://images.unsplash.com/photo-1556821840516?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.2",
+    "reviews": 206,
+    "sku": "SKU-FOR-00032",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Forever 21",
+      "Hoodies",
+      "Beige",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Pull & Bear Urban Skirts",
+    "brand": "Pull & Bear",
+    "category": "Skirts",
+    "gender": "Men",
+    "description": "Authentic Pull & Bear skirts in pink. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Pull & Bear skirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in pink and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 55,
+      "current": 44,
+      "discount": 19
+    },
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 293,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163602?w=800",
+      "https://images.unsplash.com/photo-1542272604915?w=800",
+      "https://images.unsplash.com/photo-1551028719129?w=800",
+      "https://images.unsplash.com/photo-1556821840520?w=800"
+    ],
+    "featured": true,
+    "newArrival": false,
+    "rating": "3.4",
+    "reviews": 174,
+    "sku": "SKU-PUL-00033",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Pull & Bear",
+      "Skirts",
+      "Pink",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "name": "Calvin Klein Vintage Coats",
+    "brand": "Calvin Klein",
+    "category": "Coats",
+    "gender": "Unisex",
+    "description": "Wholesale coats from Calvin Klein. Premium white variant with authentic tags.",
+    "longDescription": "This Calvin Klein coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in white and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 124,
+      "current": 70,
+      "discount": 43
+    },
+    "color": "White",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 312,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163606?w=800",
+      "https://images.unsplash.com/photo-1542272604919?w=800",
+      "https://images.unsplash.com/photo-1551028719133?w=800",
+      "https://images.unsplash.com/photo-1556821840524?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.4",
+    "reviews": 157,
+    "sku": "SKU-CAL-00034",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Calvin Klein",
+      "Coats",
+      "White",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Gucci Premium Coats",
+    "brand": "Gucci",
+    "category": "Coats",
+    "gender": "Men",
+    "description": "Stock lot of genuine Gucci coats. Yellow color, ready for immediate wholesale purchase.",
+    "longDescription": "This Gucci coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in yellow and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 171,
+      "current": 131,
+      "discount": 23
+    },
+    "color": "Yellow",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 340,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163610?w=800",
+      "https://images.unsplash.com/photo-1542272604923?w=800",
+      "https://images.unsplash.com/photo-1551028719137?w=800",
+      "https://images.unsplash.com/photo-1556821840528?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.7",
+    "reviews": 98,
+    "sku": "SKU-GUC-00035",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gucci",
+      "Coats",
+      "Yellow",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "name": "Nike Modern Jeans",
+    "brand": "Nike",
+    "category": "Jeans",
+    "gender": "Men",
+    "description": "Wholesale jeans from Nike. Premium pink variant with authentic tags.",
+    "longDescription": "This Nike jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in pink and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 160,
+      "current": 99,
+      "discount": 38
+    },
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 493,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163614?w=800",
+      "https://images.unsplash.com/photo-1542272604927?w=800",
+      "https://images.unsplash.com/photo-1551028719141?w=800",
+      "https://images.unsplash.com/photo-1556821840532?w=800"
+    ],
+    "featured": true,
+    "newArrival": false,
+    "rating": "3.6",
+    "reviews": 185,
+    "sku": "SKU-NIK-00036",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Nike",
+      "Jeans",
+      "Pink",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "name": "Adidas Sport Jackets",
+    "brand": "Adidas",
+    "category": "Jackets",
+    "gender": "Men",
+    "description": "Brand new Adidas jackets available in bulk. Red color, perfect condition for resale.",
+    "longDescription": "This Adidas jackets represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 71,
+      "current": 51,
+      "discount": 27
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 236,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163618?w=800",
+      "https://images.unsplash.com/photo-1542272604931?w=800",
+      "https://images.unsplash.com/photo-1551028719145?w=800",
+      "https://images.unsplash.com/photo-1556821840536?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.3",
+    "reviews": 22,
+    "sku": "SKU-ADI-00037",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Adidas",
+      "Jackets",
+      "Red",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "name": "Tommy Hilfiger Vintage T-Shirts",
+    "brand": "Tommy Hilfiger",
+    "category": "T-Shirts",
+    "gender": "Women",
+    "description": "Authentic Tommy Hilfiger t-shirts in brown. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Tommy Hilfiger t-shirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in brown and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 61,
+      "current": 37,
+      "discount": 39
+    },
+    "color": "Brown",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 501,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163622?w=800",
+      "https://images.unsplash.com/photo-1542272604935?w=800",
+      "https://images.unsplash.com/photo-1551028719149?w=800",
+      "https://images.unsplash.com/photo-1556821840540?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.8",
+    "reviews": 91,
+    "sku": "SKU-TOM-00038",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Tommy Hilfiger",
+      "T-Shirts",
+      "Brown",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "name": "Levi's Premium Coats",
+    "brand": "Levi's",
+    "category": "Coats",
+    "gender": "Women",
+    "description": "Authentic Levi's coats in beige. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Levi's coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in beige and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 148,
+      "current": 85,
+      "discount": 42
+    },
+    "color": "Beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 371,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163626?w=800",
+      "https://images.unsplash.com/photo-1542272604939?w=800",
+      "https://images.unsplash.com/photo-1551028719153?w=800",
+      "https://images.unsplash.com/photo-1556821840544?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 177,
+    "sku": "SKU-LEV-00039",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Levi's",
+      "Coats",
+      "Beige",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "name": "Mango Sport Skirts",
+    "brand": "Mango",
+    "category": "Skirts",
+    "gender": "Men",
+    "description": "Stock lot of genuine Mango skirts. Green color, ready for immediate wholesale purchase.",
+    "longDescription": "This Mango skirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 170,
+      "current": 95,
+      "discount": 44
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 365,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163630?w=800",
+      "https://images.unsplash.com/photo-1542272604943?w=800",
+      "https://images.unsplash.com/photo-1551028719157?w=800",
+      "https://images.unsplash.com/photo-1556821840548?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 23,
+    "sku": "SKU-MAN-00040",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Mango",
+      "Skirts",
+      "Green",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 41,
+    "name": "Prada Luxury Sweaters",
+    "brand": "Prada",
+    "category": "Sweaters",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Prada sweaters. Black color, ready for immediate wholesale purchase.",
+    "longDescription": "This Prada sweaters represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 104,
+      "current": 60,
+      "discount": 42
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 84,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163634?w=800",
+      "https://images.unsplash.com/photo-1542272604947?w=800",
+      "https://images.unsplash.com/photo-1551028719161?w=800",
+      "https://images.unsplash.com/photo-1556821840552?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "3.4",
+    "reviews": 12,
+    "sku": "SKU-PRA-00041",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Prada",
+      "Sweaters",
+      "Black",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "name": "Louis Vuitton Casual Jackets",
+    "brand": "Louis Vuitton",
+    "category": "Jackets",
+    "gender": "Men",
+    "description": "Stock lot of genuine Louis Vuitton jackets. Navy color, ready for immediate wholesale purchase.",
+    "longDescription": "This Louis Vuitton jackets represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in navy and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 107,
+      "current": 95,
+      "discount": 11
+    },
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 350,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163638?w=800",
+      "https://images.unsplash.com/photo-1542272604951?w=800",
+      "https://images.unsplash.com/photo-1551028719165?w=800",
+      "https://images.unsplash.com/photo-1556821840556?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.4",
+    "reviews": 44,
+    "sku": "SKU-LOU-00042",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Louis Vuitton",
+      "Jackets",
+      "Navy",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 43,
+    "name": "Zara Luxury Coats",
+    "brand": "Zara",
+    "category": "Coats",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Zara coats. Pink color, ready for immediate wholesale purchase.",
+    "longDescription": "This Zara coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in pink and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 187,
+      "current": 104,
+      "discount": 44
+    },
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 499,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163642?w=800",
+      "https://images.unsplash.com/photo-1542272604955?w=800",
+      "https://images.unsplash.com/photo-1551028719169?w=800",
+      "https://images.unsplash.com/photo-1556821840560?w=800"
+    ],
+    "featured": true,
+    "newArrival": false,
+    "rating": "3.4",
+    "reviews": 80,
+    "sku": "SKU-ZAR-00043",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Zara",
+      "Coats",
+      "Pink",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "name": "H&M Casual Sweaters",
+    "brand": "H&M",
+    "category": "Sweaters",
+    "gender": "Men",
+    "description": "Authentic H&M sweaters in navy. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This H&M sweaters represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in navy and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 103,
+      "current": 59,
+      "discount": 42
+    },
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 104,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163646?w=800",
+      "https://images.unsplash.com/photo-1542272604959?w=800",
+      "https://images.unsplash.com/photo-1551028719173?w=800",
+      "https://images.unsplash.com/photo-1556821840564?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.6",
+    "reviews": 78,
+    "sku": "SKU-H&M-00044",
+    "material": "Polyester",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "H&M",
+      "Sweaters",
+      "Navy",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 45,
+    "name": "Prada Modern Coats",
+    "brand": "Prada",
+    "category": "Coats",
+    "gender": "Women",
+    "description": "Authentic Prada coats in red. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Prada coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 71,
+      "current": 63,
+      "discount": 11
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 331,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163650?w=800",
+      "https://images.unsplash.com/photo-1542272604963?w=800",
+      "https://images.unsplash.com/photo-1551028719177?w=800",
+      "https://images.unsplash.com/photo-1556821840568?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 150,
+    "sku": "SKU-PRA-00045",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Prada",
+      "Coats",
+      "Red",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "name": "Louis Vuitton Classic T-Shirts",
+    "brand": "Louis Vuitton",
+    "category": "T-Shirts",
+    "gender": "Men",
+    "description": "Brand new Louis Vuitton t-shirts available in bulk. Brown color, perfect condition for resale.",
+    "longDescription": "This Louis Vuitton t-shirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in brown and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 118,
+      "current": 86,
+      "discount": 27
+    },
+    "color": "Brown",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 52,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163654?w=800",
+      "https://images.unsplash.com/photo-1542272604967?w=800",
+      "https://images.unsplash.com/photo-1551028719181?w=800",
+      "https://images.unsplash.com/photo-1556821840572?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.3",
+    "reviews": 106,
+    "sku": "SKU-LOU-00046",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Louis Vuitton",
+      "T-Shirts",
+      "Brown",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "name": "Mango Casual Hoodies",
+    "brand": "Mango",
+    "category": "Hoodies",
+    "gender": "Women",
+    "description": "Brand new Mango hoodies available in bulk. Brown color, perfect condition for resale.",
+    "longDescription": "This Mango hoodies represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in brown and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 79,
+      "current": 69,
+      "discount": 12
+    },
+    "color": "Brown",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 119,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163658?w=800",
+      "https://images.unsplash.com/photo-1542272604971?w=800",
+      "https://images.unsplash.com/photo-1551028719185?w=800",
+      "https://images.unsplash.com/photo-1556821840576?w=800"
+    ],
+    "featured": true,
+    "newArrival": false,
+    "rating": "3.8",
+    "reviews": 129,
+    "sku": "SKU-MAN-00047",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Mango",
+      "Hoodies",
+      "Brown",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 3",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "name": "Gap Urban Coats",
+    "brand": "Gap",
+    "category": "Coats",
+    "gender": "Women",
+    "description": "Brand new Gap coats available in bulk. Green color, perfect condition for resale.",
+    "longDescription": "This Gap coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 70,
+      "current": 38,
+      "discount": 45
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 110,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163662?w=800",
+      "https://images.unsplash.com/photo-1542272604975?w=800",
+      "https://images.unsplash.com/photo-1551028719189?w=800",
+      "https://images.unsplash.com/photo-1556821840580?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.3",
+    "reviews": 159,
+    "sku": "SKU-GAP-00048",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Coats",
+      "Green",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 49,
+    "name": "Gucci Luxury Coats",
+    "brand": "Gucci",
+    "category": "Coats",
+    "gender": "Men",
+    "description": "Brand new Gucci coats available in bulk. Navy color, perfect condition for resale.",
+    "longDescription": "This Gucci coats represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in navy and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 147,
+      "current": 126,
+      "discount": 14
+    },
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 367,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163666?w=800",
+      "https://images.unsplash.com/photo-1542272604979?w=800",
+      "https://images.unsplash.com/photo-1551028719193?w=800",
+      "https://images.unsplash.com/photo-1556821840584?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.0",
+    "reviews": 44,
+    "sku": "SKU-GUC-00049",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gucci",
+      "Coats",
+      "Navy",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "name": "H&M Casual Hoodies",
+    "brand": "H&M",
+    "category": "Hoodies",
+    "gender": "Men",
+    "description": "Stock lot of genuine H&M hoodies. Black color, ready for immediate wholesale purchase.",
+    "longDescription": "This H&M hoodies represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 108,
+      "current": 91,
+      "discount": 15
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 413,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163670?w=800",
+      "https://images.unsplash.com/photo-1542272604983?w=800",
+      "https://images.unsplash.com/photo-1551028719197?w=800",
+      "https://images.unsplash.com/photo-1556821840588?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.9",
+    "reviews": 87,
+    "sku": "SKU-H&M-00050",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "H&M",
+      "Hoodies",
+      "Black",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 51,
+    "name": "Mango Luxury Dresses",
+    "brand": "Mango",
+    "category": "Dresses",
+    "gender": "Unisex",
+    "description": "Brand new Mango dresses available in bulk. Purple color, perfect condition for resale.",
+    "longDescription": "This Mango dresses represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in purple and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 195,
+      "current": 130,
+      "discount": 33
+    },
+    "color": "Purple",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 221,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163674?w=800",
+      "https://images.unsplash.com/photo-1542272604987?w=800",
+      "https://images.unsplash.com/photo-1551028719201?w=800",
+      "https://images.unsplash.com/photo-1556821840592?w=800"
+    ],
+    "featured": true,
+    "newArrival": false,
+    "rating": "3.8",
+    "reviews": 82,
+    "sku": "SKU-MAN-00051",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Mango",
+      "Dresses",
+      "Purple",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 52,
+    "name": "Louis Vuitton Vintage Shirts",
+    "brand": "Louis Vuitton",
+    "category": "Shirts",
+    "gender": "Men",
+    "description": "Stock lot of genuine Louis Vuitton shirts. Yellow color, ready for immediate wholesale purchase.",
+    "longDescription": "This Louis Vuitton shirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in yellow and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 66,
+      "current": 56,
+      "discount": 15
+    },
+    "color": "Yellow",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 544,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163678?w=800",
+      "https://images.unsplash.com/photo-1542272604991?w=800",
+      "https://images.unsplash.com/photo-1551028719205?w=800",
+      "https://images.unsplash.com/photo-1556821840596?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "3.5",
+    "reviews": 23,
+    "sku": "SKU-LOU-00052",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Louis Vuitton",
+      "Shirts",
+      "Yellow",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 1",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "name": "Ralph Lauren Premium Shirts",
+    "brand": "Ralph Lauren",
+    "category": "Shirts",
+    "gender": "Women",
+    "description": "Wholesale shirts from Ralph Lauren. Premium beige variant with authentic tags.",
+    "longDescription": "This Ralph Lauren shirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in beige and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 161,
+      "current": 90,
+      "discount": 44
+    },
+    "color": "Beige",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 486,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163682?w=800",
+      "https://images.unsplash.com/photo-1542272604995?w=800",
+      "https://images.unsplash.com/photo-1551028719209?w=800",
+      "https://images.unsplash.com/photo-1556821840600?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.0",
+    "reviews": 115,
+    "sku": "SKU-RAL-00053",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Ralph Lauren",
+      "Shirts",
+      "Beige",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 4",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "name": "Gap Modern Shorts",
+    "brand": "Gap",
+    "category": "Shorts",
+    "gender": "Women",
+    "description": "Wholesale shorts from Gap. Premium green variant with authentic tags.",
+    "longDescription": "This Gap shorts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in green and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 120,
+      "current": 63,
+      "discount": 47
+    },
+    "color": "Green",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 81,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163686?w=800",
+      "https://images.unsplash.com/photo-1542272604999?w=800",
+      "https://images.unsplash.com/photo-1551028719213?w=800",
+      "https://images.unsplash.com/photo-1556821840604?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.0",
+    "reviews": 135,
+    "sku": "SKU-GAP-00054",
+    "material": "Cotton",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Shorts",
+      "Green",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 55,
+    "name": "Forever 21 Sport Jeans",
+    "brand": "Forever 21",
+    "category": "Jeans",
+    "gender": "Men",
+    "description": "Authentic Forever 21 jeans in pink. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Forever 21 jeans represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in pink and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are excellent and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 94,
+      "current": 61,
+      "discount": 35
+    },
+    "color": "Pink",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "Excellent",
+    "stockQuantity": 511,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163690?w=800",
+      "https://images.unsplash.com/photo-1542272605003?w=800",
+      "https://images.unsplash.com/photo-1551028719217?w=800",
+      "https://images.unsplash.com/photo-1556821840608?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 28,
+    "sku": "SKU-FOR-00055",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Forever 21",
+      "Jeans",
+      "Pink",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 3",
+    "origin": "Asia",
+    "inStock": true
+  },
+  {
+    "id": 56,
+    "name": "Nike Sport Jackets",
+    "brand": "Nike",
+    "category": "Jackets",
+    "gender": "Unisex",
+    "description": "Stock lot of genuine Nike jackets. Gray color, ready for immediate wholesale purchase.",
+    "longDescription": "This Nike jackets represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in gray and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 161,
+      "current": 135,
+      "discount": 16
+    },
+    "color": "Gray",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 147,
+    "minOrderQuantity": 50,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163694?w=800",
+      "https://images.unsplash.com/photo-1542272605007?w=800",
+      "https://images.unsplash.com/photo-1551028719221?w=800",
+      "https://images.unsplash.com/photo-1556821840612?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.9",
+    "reviews": 164,
+    "sku": "SKU-NIK-00056",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Nike",
+      "Jackets",
+      "Gray",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "USA",
+    "inStock": true
+  },
+  {
+    "id": 57,
+    "name": "Mango Premium Pants",
+    "brand": "Mango",
+    "category": "Pants",
+    "gender": "Women",
+    "description": "High-quality red pants from Mango. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Mango pants represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are like new and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 127,
+      "current": 81,
+      "discount": 36
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "Like New",
+    "stockQuantity": 453,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163698?w=800",
+      "https://images.unsplash.com/photo-1542272605011?w=800",
+      "https://images.unsplash.com/photo-1551028719225?w=800",
+      "https://images.unsplash.com/photo-1556821840616?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "3.8",
+    "reviews": 204,
+    "sku": "SKU-MAN-00057",
+    "material": "Wool",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Mango",
+      "Pants",
+      "Red",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 5",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 58,
+    "name": "Tommy Hilfiger Vintage Shirts",
+    "brand": "Tommy Hilfiger",
+    "category": "Shirts",
+    "gender": "Women",
+    "description": "High-quality red shirts from Tommy Hilfiger. Perfect for wholesale buyers looking for premium stock.",
+    "longDescription": "This Tommy Hilfiger shirts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in red and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 155,
+      "current": 85,
+      "discount": 45
+    },
+    "color": "Red",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 135,
+    "minOrderQuantity": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163702?w=800",
+      "https://images.unsplash.com/photo-1542272605015?w=800",
+      "https://images.unsplash.com/photo-1551028719229?w=800",
+      "https://images.unsplash.com/photo-1556821840620?w=800"
+    ],
+    "featured": false,
+    "newArrival": true,
+    "rating": "4.2",
+    "reviews": 133,
+    "sku": "SKU-TOM-00058",
+    "material": "Cotton Blend",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Tommy Hilfiger",
+      "Shirts",
+      "Red",
+      "Women",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 2",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "name": "Gap Classic Shorts",
+    "brand": "Gap",
+    "category": "Shorts",
+    "gender": "Unisex",
+    "description": "Authentic Gap shorts in black. Ideal for retailers seeking quality wholesale clothing.",
+    "longDescription": "This Gap shorts represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in black and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new without tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 172,
+      "current": 111,
+      "discount": 35
+    },
+    "color": "Black",
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "condition": "New without tags",
+    "stockQuantity": 386,
+    "minOrderQuantity": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163706?w=800",
+      "https://images.unsplash.com/photo-1542272605019?w=800",
+      "https://images.unsplash.com/photo-1551028719233?w=800",
+      "https://images.unsplash.com/photo-1556821840624?w=800"
+    ],
+    "featured": false,
+    "newArrival": false,
+    "rating": "4.2",
+    "reviews": 70,
+    "sku": "SKU-GAP-00059",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Gap",
+      "Shorts",
+      "Black",
+      "Unisex",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 3",
+    "origin": "Europe",
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "name": "Ralph Lauren Vintage Hoodies",
+    "brand": "Ralph Lauren",
+    "category": "Hoodies",
+    "gender": "Men",
+    "description": "Brand new Ralph Lauren hoodies available in bulk. Navy color, perfect condition for resale.",
+    "longDescription": "This Ralph Lauren hoodies represents excellent value for wholesale buyers. Made with premium materials and authentic branding, this stock lot is perfect for retailers looking to expand their inventory with recognized brands. Each piece comes in navy and is available in multiple sizes. This is a genuine wholesale opportunity with competitive pricing for bulk orders. The items are new with tags and ready for immediate resale. Ideal for both online and brick-and-mortar retail operations.",
+    "price": {
+      "original": 175,
+      "current": 110,
+      "discount": 37
+    },
+    "color": "Navy",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "condition": "New with tags",
+    "stockQuantity": 138,
+    "minOrderQuantity": 100,
+    "images": [
+      "https://images.unsplash.com/photo-1521572163710?w=800",
+      "https://images.unsplash.com/photo-1542272605023?w=800",
+      "https://images.unsplash.com/photo-1551028719237?w=800",
+      "https://images.unsplash.com/photo-1556821840628?w=800"
+    ],
+    "featured": true,
+    "newArrival": true,
+    "rating": "4.4",
+    "reviews": 99,
+    "sku": "SKU-RAL-00060",
+    "material": "Denim",
+    "careInstructions": "Machine wash cold, tumble dry low",
+    "tags": [
+      "Ralph Lauren",
+      "Hoodies",
+      "Navy",
+      "Men",
+      "Wholesale",
+      "Stock Lot"
+    ],
+    "supplier": "Supplier 3",
+    "origin": "Asia",
+    "inStock": true
+  }
+]

@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+@theme {
+  /* Color Variables - Light Theme (Default) */
+  --color-background: oklch(100% 0 0);
+  --color-foreground: oklch(20% 0 0);
+  --color-card: oklch(100% 0 0);
+  --color-card-foreground: oklch(20% 0 0);
+  --color-popover: oklch(100% 0 0);
+  --color-popover-foreground: oklch(20% 0 0);
+  --color-primary: oklch(42% 0.2 250);
+  --color-primary-foreground: oklch(100% 0 0);
+  --color-secondary: oklch(96% 0.01 250);
+  --color-secondary-foreground: oklch(20% 0 0);
+  --color-muted: oklch(96% 0.01 250);
+  --color-muted-foreground: oklch(50% 0.01 250);
+  --color-accent: oklch(96% 0.01 250);
+  --color-accent-foreground: oklch(20% 0 0);
+  --color-destructive: oklch(55% 0.23 25);
+  --color-destructive-foreground: oklch(100% 0 0);
+  --color-border: oklch(90% 0.01 250);
+  --color-input: oklch(90% 0.01 250);
+  --color-ring: oklch(42% 0.2 250);
+
+  /* Border Radius */
+  --radius-lg: 0.5rem;
+  --radius-md: calc(0.5rem - 2px);
+  --radius-sm: calc(0.5rem - 4px);
+
+  /* Container */
+  --container-center: true;
+  --container-padding: 1.5rem;
+  --container-max-width-2xl: 1400px;
+}
+
+/* Disable automatic dark mode - only allow manual .dark class */
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: white;
+    color: rgb(17, 24, 39);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom animations */
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+@utility accordion-down {
+  animation: accordion-down 0.2s ease-out;
+}
+
+@utility accordion-up {
+  animation: accordion-up 0.2s ease-out;
+}
