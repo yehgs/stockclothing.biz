@@ -104,12 +104,12 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 text-blue-500 flex-shrink-0 mt-0.5" />
-                <span>123 Fashion Street, New York, NY 10001</span>
+                <span>Sokoto Road, Agbara,<br /> Ogun State,Nigeria</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-5 h-5 text-blue-500 flex-shrink-0" />
                 <a href="tel:+11234567890" className="hover:text-blue-500 transition-colors">
-                  +1 (123) 456-7890
+                  (+234)-7030-292729
                 </a>
               </li>
               <li className="flex items-center gap-2">

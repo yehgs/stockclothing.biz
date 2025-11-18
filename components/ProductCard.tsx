@@ -114,11 +114,11 @@ export default function ProductCard({ product }: ProductCardProps) {
             <div>
               <div className="flex items-center gap-2">
                 <span className="text-2xl font-bold text-gray-900">
-                  ${product.price.current}
+                  ₦{product.price.current}
                 </span>
                 {product.price.discount > 0 && (
                   <span className="text-sm text-gray-400 line-through">
-                    ${product.price.original}
+                    ₦{product.price.original}
                   </span>
                 )}
               </div>
