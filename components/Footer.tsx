@@ -104,7 +104,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 text-blue-500 flex-shrink-0 mt-0.5" />
-                <span>Sokoto Road, Agbara,<br /> Ogun State,Nigeria</span>
+                <span>No. 3 Kafi Street, Alausa, Oregun,<br />Ikeja, Lagos State.</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-5 h-5 text-blue-500 flex-shrink-0" />
@@ -147,7 +147,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-6 text-center text-sm">
-          <p>&copy; 2024 StockClothing.biz. All rights reserved.</p>
+          <p>&copy; 2025 StockClothing.biz. All rights reserved.</p>
           <p className="mt-2 text-xs text-gray-500">
             Secure payments powered by trusted payment processors
           </p>

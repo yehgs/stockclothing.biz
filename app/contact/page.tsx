@@ -50,7 +50,7 @@ export default function ContactPage() {
           <div className="space-y-6">
             <div className="bg-white rounded-lg shadow-sm p-6">
               <h2 className="text-2xl font-bold text-gray-900 mb-6">Get in Touch</h2>
-              
+
               <div className="space-y-4">
                 <div className="flex items-start gap-4">
                   <div className="bg-blue-100 p-3 rounded-full">
@@ -69,8 +69,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Phone</h3>
-                    <p className="text-gray-600">+1 (123) 456-7890</p>
-                    <p className="text-gray-600">+1 (123) 456-7891</p>
+                    <p className="text-gray-600">(+234)-7030-292729</p>
                   </div>
                 </div>
 
@@ -81,9 +80,9 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Address</h3>
                     <p className="text-gray-600">
-                      123 Fashion Street<br />
-                      New York, NY 10001<br />
-                      United States
+                      No. 3 Kafi Street, <br />
+                      Alausa, Oregun, Ikeja,<br />
+                      Lagos State, Nigeria
                     </p>
                   </div>
                 </div>
